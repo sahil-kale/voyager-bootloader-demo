@@ -1,0 +1,3 @@
+[submodule "voyager-bootloader"]
+	path = voyager-bootloader
+	url = git@github.com:sahil-kale/voyager-bootloader.git
